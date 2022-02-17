@@ -8,3 +8,5 @@ O projeto possui dois objetivos principais:
 
 - Análise Exploratória dos Dados de cada Fonte de Energia;
 - Previsão do Crescimento de Energia Elétrica para cada Fonte para o período entre julho e dezembro de 2020.
+
+⚙️ Projeto em construção ⚙️
