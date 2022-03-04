@@ -20,7 +20,7 @@ O projeto foi feito com dois objetivos principais:
 ### Comparação entre Dados Reais e os Preditos pelo Modelo
 ![image](https://user-images.githubusercontent.com/95313119/156660799-1b12f0b0-4479-4b54-87f7-f8b077ca901e.png)
 
-### Previsão para os 12 meses da Energia Total Despachada
+### Previsão para os 12 meses subsequentes da Energia Total Despachada
 ![image](https://user-images.githubusercontent.com/95313119/156660941-17699d90-d850-4280-9388-8e19b88d833a.png)
 
 ## Conclusões
