@@ -11,7 +11,7 @@ O projeto foi feito com dois objetivos principais:
 
 ## Stacks
 - Linguagem: Python;
-- Criação do Modelo - Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
+- Criação do Modelo: Pandas, Numpy, Matplotlib, Seaborn, Statsmodels e Scikit-learn.
 
 ## Principais Visualizações do Projeto
 
